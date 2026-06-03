@@ -1,10 +1,10 @@
-# W2 Chamados
+# W2 HelpDesk
 
 Aplicativo Android desenvolvido como atividade de extensão universitária para a disciplina de **Programação para Dispositivos Móveis em Android** — Estácio de Sá.
 
 ## Sobre o projeto
 
-O **W2 Chamados** é um aplicativo mobile desenvolvido em Kotlin para a empresa **W2 Tecnologia da Informação** (Aracruz/ES), com o objetivo de integrar ao sistema proprietário de chamados técnicos já utilizado pela empresa, permitindo acesso mobile às funcionalidades principais.
+O **W2 HelpDesk** é um aplicativo mobile desenvolvido em Kotlin para a empresa **W2 Tecnologia da Informação**, com o objetivo de integrar ao sistema proprietário de chamados técnicos já utilizado pela empresa, permitindo acesso mobile às funcionalidades principais.
 
 ## Funcionalidades
 
@@ -47,10 +47,4 @@ private const val BASE_URL = "https://sistema.w2ti.com.br/api/v1/"
 ## Empresa parceira
 
 **W2 Tecnologia da Informação**  
-Av. dos Coqueiros, 134 — Aracruz/ES  
-CNPJ: 15.205.694/0001-70  
-Responsável: Weverton Vicente
 
-## Autor
-
-Wendell — Estácio de Sá, 2026
